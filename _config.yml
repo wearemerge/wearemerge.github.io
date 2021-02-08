@@ -1,0 +1,34 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://wearemerge.mx
+title: Merge Technologies
+email: rodolfoferroperez@gmail.com
+author: Merge Technologies
+description: >
+  Capacitamos y desarrollamos tecnología a la medida, orientados a industria 4.0. 
+
+  Formamos a personas en diversos temas de desarrollo en nuevas tecnologías e industria 4.0, enfocándonos en soluciones data-driven, web, dashboards, inteligencia artificial, bots, monitoreo y automatización de procesos.
+  
+  Basados en León, Guanajuato, con atención a todo el país.
+copyright: 'Copyright &copy; 2021 Merge Technologies. All Rights Reserved.'
+# credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: inbox
+    url: mailto:rodolfoferroperez@gmail.com
+  # - title: github
+  #   url: https://github.com/wearemerge
